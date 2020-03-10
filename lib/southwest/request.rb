@@ -22,7 +22,7 @@ module Southwest
 
     def base_uri
       # 'https://api-extensions.southwest.com/v1/mobile'
-      'https://mobile.southwest.com/api/extensions/v1/mobile'
+      'https://api-extensions.southwest.com/v1/mobile'
     end
 
     def user_agent
