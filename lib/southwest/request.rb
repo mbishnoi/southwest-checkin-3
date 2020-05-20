@@ -26,7 +26,7 @@ module Southwest
     end
 
     def user_agent
-      "Southwest/7.5.0 (iPhone; iOS 13.4; Scale/2.00)"
+      "Southwest/3.3.7 (iPhone; iOS 10; Scale/2.00)"
     end
 
     def api_key
