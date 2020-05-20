@@ -22,11 +22,11 @@ module Southwest
 
     def base_uri
       # 'https://api-extensions.southwest.com/v1/mobile'
-      'https://mobile.southwest.com/api/foo/123456/bar'
+      'https://mobile.southwest.com/api/extensions/v1/mobile'
     end
 
     def user_agent
-      "SouthwestAndroid/7.2.1 android/10"
+      "Southwest/7.2.0 (iPhone; iOS 13.3; Scale/2.00)"
     end
 
     def api_key
